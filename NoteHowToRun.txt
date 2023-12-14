@@ -1,0 +1,2 @@
+Placed candles.js into a mock db json server
+need to run mock server to access data
