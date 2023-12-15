@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Comic Sans MS', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #4FA9D2;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.mainNav {
+  background-color: #0275d8;
+  padding: 20px;
+}
+
+.mainNav .active {
+    font-weight: bold;
+}
+
+.navLinks {
+    color: #61dafb;
+}
+
+.shopTitle {
+    color: #F0DD5D;
+}
+
+.mainSectionLeft {
+    padding-left: 25px;
+}
+
+.mainSectionRight {
+    padding-right: 150px;
+}
